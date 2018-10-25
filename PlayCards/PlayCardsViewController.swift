@@ -8,7 +8,7 @@
 
 import UIKit
 
-class ViewController: UIViewController {
+class PlayCardsViewController: UIViewController {
     
     var flipCount = 0
     @IBOutlet weak var countLabel: UILabel!
