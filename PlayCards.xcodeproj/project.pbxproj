@@ -66,7 +66,7 @@
 				845EC546217B0D31008F5E64 /* Assets.xcassets */,
 				845EC551217B0DC7008F5E64 /* Card.swift */,
 				845EC553217B0EAE008F5E64 /* PlayCards.swift */,
-				845EC548217B0D31008F5E64 /* LaunchScreen.storyboard */,
+				845EC54B217B0D31008F5E64 /* Info.plist */,
 				C129B27F218205320084A76A /* Supporting Files */,
 			);
 			path = PlayCards;
@@ -75,8 +75,8 @@
 		C129B27F218205320084A76A /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				845EC548217B0D31008F5E64 /* LaunchScreen.storyboard */,
 				845EC53F217B0D2E008F5E64 /* AppDelegate.swift */,
-				845EC54B217B0D31008F5E64 /* Info.plist */,
 			);
 			path = "Supporting Files";
 			sourceTree = "<group>";
